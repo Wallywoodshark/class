@@ -1,0 +1,26 @@
+.top{
+    border: 10px groove green;
+    background-color: aqua;
+    color: red;
+    border-radius: 1rem;
+    padding: 7px;
+}
+.topthin{
+    display: flex;
+    justify-content: flex-start;
+}
+body{
+    background-color: rgb(82, 79, 79) ;
+}
+h1{
+    text-align: center;
+    background-color: crimson;
+    border: 5px dotted yellow;
+}
+p{
+    border: 2px dashed blue;
+   color: gold;
+   text-align: center;
+   text-shadow: 20px 10px 10px black;
+   font-size: 200%;
+}
